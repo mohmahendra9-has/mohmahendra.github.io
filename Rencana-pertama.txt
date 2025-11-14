@@ -1,4 +1,8 @@
 Rencana-pertana
 - Belajar HTML
+ * Head
+ * Body
 - Belajar CSS
+ * Font
+ * Text
 - Belajar GITHUB

@@ -2,8 +2,10 @@ Rencana-pertana
 - Belajar HTML
  * Head
  * Body
+  ^ Stayle
+  ^ Box model
 - Belajar CSS
  * Font
  * Text
 - Belajar GITHUB
-* Buat akun
+* Buat Branch

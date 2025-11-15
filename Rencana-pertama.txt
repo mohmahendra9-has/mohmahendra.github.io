@@ -1,9 +1,11 @@
 Rencana-pertana
 - Belajar HTML
  * Head
+   ^H1-H6
  * Body
 - Belajar CSS
  * Font
  * Text
 - Belajar GITHUB
 * Buat akun
+* atur Repository
